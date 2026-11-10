@@ -6,9 +6,7 @@ The source code is private because it runs on my live business data. This page c
 
 [![Watch the 3-minute demo](demo/preview.gif)](demo/mise-demo.mp4)
 
-▶ [Watch the 3-minute demo](demo/mise-demo.mp4). It is narrated and captioned, and every name and figure in it is invented.
-
-Prefer a person walking through it? [Watch my own walkthrough on Loom](https://www.loom.com/share/e3558290ddee467c9e2ee1bb72354acf) (4 minutes).
+▶ [Watch the demo](demo/mise-demo.mp4) · [Walkthrough on Loom](https://www.loom.com/share/e3558290ddee467c9e2ee1bb72354acf)
 
 ## The problem
 
