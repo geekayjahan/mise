@@ -4,7 +4,7 @@
 
 The source code is private because it runs on my live business data. This page covers what it does, how it works and the decisions behind it.
 
-[![Watch the 3-minute demo](demo/poster.jpg)](demo/mise-demo.mp4)
+[![Watch the 3-minute demo](demo/preview.gif)](demo/mise-demo.mp4)
 
 ▶ [Watch the 3-minute demo](demo/mise-demo.mp4). It is narrated and captioned, and every name and figure in it is invented.
 
