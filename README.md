@@ -4,9 +4,11 @@
 
 The source code is private because it runs on my live business data. This page covers what it does, how it works and the decisions behind it.
 
-[![Watch the 4-minute demo: How I Built Mise for a Solo-Founder](https://cdn.loom.com/sessions/thumbnails/e3558290ddee467c9e2ee1bb72354acf-e7b1527c3478a760.gif)](https://www.loom.com/share/e3558290ddee467c9e2ee1bb72354acf)
+[![Watch the 3-minute demo](demo/poster.jpg)](demo/mise-demo.mp4)
 
-▶ [Watch the demo on Loom](https://www.loom.com/share/e3558290ddee467c9e2ee1bb72354acf) (4 minutes)
+▶ [Watch the 3-minute demo](demo/mise-demo.mp4). It is narrated and captioned, and every name and figure in it is invented.
+
+Prefer a person walking through it? [Watch my own walkthrough on Loom](https://www.loom.com/share/e3558290ddee467c9e2ee1bb72354acf) (4 minutes).
 
 ## The problem
 
